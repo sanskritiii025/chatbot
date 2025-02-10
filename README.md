@@ -16,9 +16,13 @@ Java Swing: Provides GUI components like JFrame, JPanel, JLabel, JTextField, and
 Backend:
 Socket Programming: Uses ServerSocket and Socket to establish network communication.
 I/O Streams: Implements DataInputStream and DataOutputStream for message exchange.
+
 screenshots:
+
 A.	THE SERVER SCREEN :![image](https://github.com/user-attachments/assets/33041837-096c-4cee-bf23-87693775c5e5)
+
 B.	THE CLIENT SCREEN :![image](https://github.com/user-attachments/assets/e662f409-3495-455f-a80d-e85b3fdd724d)
+
 C.	THE CLIENT SERVER SCREEN :![image](https://github.com/user-attachments/assets/c085ee82-7e7e-4578-9020-ff21bccdf0ec)
 
 
